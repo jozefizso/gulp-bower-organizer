@@ -1,0 +1,26 @@
+{
+  "name": "gulp-bower-organizer",
+  "version": "0.1.0",
+  "description": "Use rules in the bower.json to organize how files are copied out of bower_components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jozefizso/gulp-bower-organizer.git"
+  },
+  "keywords": [
+    "gulp",
+    "bower",
+    "exports",
+    "override",
+    "organize"
+  ],
+  "author": "Jozef Izso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jozefizso/gulp-bower-organizer/issues"
+  },
+  "homepage": "https://github.com/jozefizso/gulp-bower-organizer#readme"
+}
